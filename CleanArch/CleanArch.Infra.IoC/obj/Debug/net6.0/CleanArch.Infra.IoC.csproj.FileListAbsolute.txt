@@ -1,0 +1,12 @@
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.IoC.deps.json
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.IoC.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.IoC.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.AssemblyInfo.cs
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\refint\CleanArch.Infra.IoC.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\ref\CleanArch.Infra.IoC.dll
