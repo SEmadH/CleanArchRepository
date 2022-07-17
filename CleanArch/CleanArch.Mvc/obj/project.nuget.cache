@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R3WU5licWqiQo2kaaqfgUEMB9mseT5vjo2yPZfeR7bPzh4fKv3cvEjZo4ULBu3I2dmVIoMDo/YhOCoYXlPQnqg==",
+  "dgSpecHash": "ZT2AzSWvj+iDq28Vum0D5hjsiDDztf5pOExKifU9rIvsbydp4k1zefn6ztbjViJA+HMnfQLfjq2frZVUE87JJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emad\\Source\\Repos\\CleanArchRepository\\CleanArch\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emad\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Emad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.7\\microsoft.aspnetcore.cryptography.internal.6.0.7.nupkg.sha512",

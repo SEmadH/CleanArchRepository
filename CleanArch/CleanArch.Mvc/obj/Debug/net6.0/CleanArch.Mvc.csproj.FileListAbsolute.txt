@@ -68,3 +68,7 @@ C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug
 C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug\net6.0\CleanArch.Mvc.pdb
 C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug\net6.0\CleanArch.Mvc.genruntimeconfig.cache
 C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug\net6.0\ref\CleanArch.Mvc.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Domain.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Infra.Data.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Domain.pdb

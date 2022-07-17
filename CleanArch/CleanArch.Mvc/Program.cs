@@ -1,3 +1,4 @@
+using CleanArch.Infra.Data.Context;
 using CleanArch.Mvc.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -14,6 +15,10 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddRazorPages();
 
+builder.Services.AddDbContext<UnivesityDBContext>(opetions =>
+{
+    opetions.UseSqlServer(builder.Configuration.GetConnectionString("UnivesityDBConnection"));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
