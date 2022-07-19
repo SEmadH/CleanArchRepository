@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CleanArch.Infra.Data.Repositories
 {
-    public class CourseRepository : ICourceRepository
+    public class CourseRepository : ICourseRepository
     {
         private UnivesityDBContext _ctx;
 

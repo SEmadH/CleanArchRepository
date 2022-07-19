@@ -11,9 +11,9 @@ namespace CleanArch.Application.Services
 {
     public class CourseService : ICourseService
     {
-        private ICourceRepository _courceRepository;
+        private ICourseRepository _courceRepository;
 
-        public CourseService(ICourceRepository courceRepository)
+        public CourseService(ICourseRepository courceRepository)
         {
             _courceRepository = courceRepository;
         }

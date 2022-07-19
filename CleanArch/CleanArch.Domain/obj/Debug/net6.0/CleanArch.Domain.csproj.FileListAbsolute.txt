@@ -10,3 +10,15 @@ C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Domain\obj\De
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\refint\CleanArch.Domain.dll
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.pdb
 C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\ref\CleanArch.Domain.dll
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.deps.json
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.dll
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.pdb
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.csproj.AssemblyReference.cache
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.AssemblyInfo.cs
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.dll
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\refint\CleanArch.Domain.dll
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.pdb
+C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\ref\CleanArch.Domain.dll

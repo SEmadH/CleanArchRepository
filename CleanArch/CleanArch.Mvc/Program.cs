@@ -1,4 +1,5 @@
 using CleanArch.Infra.Data.Context;
+using CleanArch.Infra.IoC;
 using CleanArch.Mvc.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -19,6 +20,9 @@ builder.Services.AddDbContext<UnivesityDBContext>(opetions =>
 {
     opetions.UseSqlServer(builder.Configuration.GetConnectionString("UnivesityDBConnection"));
 });
+
+DependecyContainer.RegisterSevices(builder.Services);
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -44,3 +48,4 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+

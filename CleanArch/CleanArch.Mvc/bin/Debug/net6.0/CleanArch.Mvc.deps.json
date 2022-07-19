@@ -9,6 +9,7 @@
       "CleanArch.Mvc/1.0.0": {
         "dependencies": {
           "CleanArch.Infra.Data": "1.0.0",
+          "CleanArch.Infra.IoC": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.7",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.7",
           "Microsoft.AspNetCore.Identity.UI": "6.0.7",
@@ -532,6 +533,14 @@
           }
         }
       },
+      "CleanArch.Application/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArch.Application.dll": {}
+        }
+      },
       "CleanArch.Domain/1.0.0": {
         "runtime": {
           "CleanArch.Domain.dll": {}
@@ -545,6 +554,16 @@
         },
         "runtime": {
           "CleanArch.Infra.Data.dll": {}
+        }
+      },
+      "CleanArch.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "CleanArch.Application": "1.0.0",
+          "CleanArch.Infra.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "6.0.0"
+        },
+        "runtime": {
+          "CleanArch.Infra.IoC.dll": {}
         }
       }
     }
@@ -919,12 +938,22 @@
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
+    "CleanArch.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CleanArch.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "CleanArch.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Infra.IoC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
