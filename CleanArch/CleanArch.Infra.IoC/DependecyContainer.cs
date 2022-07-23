@@ -13,7 +13,6 @@ namespace CleanArch.Infra.IoC
 {
     public class DependecyContainer
     {
-        
         public static void RegisterSevices(IServiceCollection services)
         {
             //Application Layer

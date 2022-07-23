@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C1tYu2mzFrJ8Gvz2GSWAkWJRL53UtrhVQS43WmmGGfUzWjtHxFID363N7N03jDhKPNS5Zbg6aQc7+s4CxqDsUg==",
+  "dgSpecHash": "aeYmqqDCs41I938GA8Wn2fV/npIfZMEGv4+Xhn8SSMfqs1+3bw1L+G06REPJqoZrkf1aB2fwEm/PkLdg40VYlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emad\\source\\repos\\SEmadH\\CleanArchRepository\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emad\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Emad\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

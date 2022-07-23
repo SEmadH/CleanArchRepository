@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vgtnt0homPThskUZSXd/Yb1ExixRWMPs6pn5FZosL6zHbPr+Wst3NNqcIL6+jE0Zu0KYNrrxz/oGuCHapndfXg==",
+  "dgSpecHash": "f8E1cW+eQctg9NthfKNu2rJtcmyuNDNJgAutJ2pSCxW/YE6f/zlGo3cGDAMz5GIOz9Edj0+WELmO8fxUEt+JJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emad\\source\\repos\\SEmadH\\CleanArchRepository\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

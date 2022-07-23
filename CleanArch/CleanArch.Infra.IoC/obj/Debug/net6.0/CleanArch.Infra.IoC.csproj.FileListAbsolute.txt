@@ -29,3 +29,10 @@ C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Infra.
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Domain.pdb
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.csproj.CopyComplete
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Application.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Domain.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.Data.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Application.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Domain.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.csproj.CopyComplete
