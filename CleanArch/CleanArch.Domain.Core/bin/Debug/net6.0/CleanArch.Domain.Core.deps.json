@@ -6,13 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "CleanArc.Infra.Bus/1.0.0": {
+      "CleanArch.Domain.Core/1.0.0": {
         "dependencies": {
-          "CleanArch.Domain.Core": "1.0.0",
           "MediatR": "10.0.1"
         },
         "runtime": {
-          "CleanArc.Infra.Bus.dll": {}
+          "CleanArch.Domain.Core.dll": {}
         }
       },
       "MediatR/10.0.1": {
@@ -33,19 +32,11 @@
             "fileVersion": "1.0.1.0"
           }
         }
-      },
-      "CleanArch.Domain.Core/1.0.0": {
-        "dependencies": {
-          "MediatR": "10.0.1"
-        },
-        "runtime": {
-          "CleanArch.Domain.Core.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "CleanArc.Infra.Bus/1.0.0": {
+    "CleanArch.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -63,11 +54,6 @@
       "sha512": "sha512-NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
       "path": "mediatr.contracts/1.0.1",
       "hashPath": "mediatr.contracts.1.0.1.nupkg.sha512"
-    },
-    "CleanArch.Domain.Core/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

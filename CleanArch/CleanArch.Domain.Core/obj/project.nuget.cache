@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l7vC9zdbmX6PyMAmWMFLL7qGaOQsmZeuf2QVw4D0qDvZwWZRTtsou3TUZHLwutFm2m3O/Bofgv+Z1rm1Sm1Vfg==",
+  "dgSpecHash": "5C4h/IClWz218ZD/+of2SJz2PBYBncuN4nr3d71Fpp2nzJxFH7qRXq28raXw6AFyP0wV0gN53SUWDI9jvtpJ0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArc.Infra.Bus\\CleanArc.Infra.Bus.csproj",
+  "projectFilePath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emad\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Emad\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"

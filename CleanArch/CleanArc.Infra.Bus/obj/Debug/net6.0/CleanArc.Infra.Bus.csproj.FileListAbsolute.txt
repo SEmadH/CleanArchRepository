@@ -10,3 +10,6 @@ C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\refint\CleanArc.Infra.Bus.dll
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\CleanArc.Infra.Bus.pdb
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\ref\CleanArc.Infra.Bus.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\bin\Debug\net6.0\CleanArch.Domain.Core.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\bin\Debug\net6.0\CleanArch.Domain.Core.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\CleanArc.Infra.Bus.csproj.CopyComplete

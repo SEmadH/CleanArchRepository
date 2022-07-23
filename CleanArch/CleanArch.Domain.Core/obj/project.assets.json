@@ -22,19 +22,6 @@
         "runtime": {
           "lib/netstandard2.0/MediatR.Contracts.dll": {}
         }
-      },
-      "CleanArch.Domain.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "MediatR": "10.0.1"
-        },
-        "compile": {
-          "bin/placeholder/CleanArch.Domain.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CleanArch.Domain.Core.dll": {}
-        }
       }
     }
   },
@@ -68,16 +55,10 @@
         "mediatr.contracts.1.0.1.nupkg.sha512",
         "mediatr.contracts.nuspec"
       ]
-    },
-    "CleanArch.Domain.Core/1.0.0": {
-      "type": "project",
-      "path": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj",
-      "msbuildProject": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CleanArch.Domain.Core >= 1.0.0",
       "MediatR >= 10.0.1"
     ]
   },
@@ -88,11 +69,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArc.Infra.Bus\\CleanArc.Infra.Bus.csproj",
-      "projectName": "CleanArc.Infra.Bus",
-      "projectPath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArc.Infra.Bus\\CleanArc.Infra.Bus.csproj",
+      "projectUniqueName": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj",
+      "projectName": "CleanArch.Domain.Core",
+      "projectPath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\Emad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArc.Infra.Bus\\obj\\",
+      "outputPath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -114,11 +95,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
