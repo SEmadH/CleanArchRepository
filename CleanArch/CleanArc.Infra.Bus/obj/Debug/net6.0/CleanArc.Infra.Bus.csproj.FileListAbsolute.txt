@@ -1,0 +1,12 @@
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\bin\Debug\net6.0\CleanArc.Infra.Bus.deps.json
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\bin\Debug\net6.0\CleanArc.Infra.Bus.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\bin\Debug\net6.0\CleanArc.Infra.Bus.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\CleanArc.Infra.Bus.csproj.AssemblyReference.cache
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\CleanArc.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\CleanArc.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\CleanArc.Infra.Bus.AssemblyInfo.cs
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\CleanArc.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\CleanArc.Infra.Bus.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\refint\CleanArc.Infra.Bus.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\CleanArc.Infra.Bus.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArc.Infra.Bus\obj\Debug\net6.0\ref\CleanArc.Infra.Bus.dll
