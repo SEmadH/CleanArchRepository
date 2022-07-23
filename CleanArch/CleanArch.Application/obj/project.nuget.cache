@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7CBrKcT+A8YyRqbpTPc2VmH0LD75ADA7SrSi+TxYL/d9LU6uBmIFkVSZyXatcu8Asvp+pNN369B1gOYxR7snXw==",
+  "dgSpecHash": "tB78j7Hf9fmtboTXFevolsZ0+lZ7+ae3WCkG/VyK7OI4faw9Hx4iTXP/dYtJ+sbjHMmtIhxeP37Vn6nD98na6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Emad\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Emad\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

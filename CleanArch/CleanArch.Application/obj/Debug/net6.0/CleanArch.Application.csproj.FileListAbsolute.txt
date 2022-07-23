@@ -28,3 +28,5 @@ C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Applic
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Application\obj\Debug\net6.0\refint\CleanArch.Application.dll
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.pdb
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Application\obj\Debug\net6.0\ref\CleanArch.Application.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Application\bin\Debug\net6.0\CleanArch.Domain.Core.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Application\bin\Debug\net6.0\CleanArch.Domain.Core.pdb

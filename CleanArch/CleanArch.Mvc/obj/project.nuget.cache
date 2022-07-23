@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "f3C455X6dlvrozDWYznYia2vTrazDXQPdl8fqCmcp9DWWpAsKdXK1hwuqvaN+gyXI7EKtJ8uY6tTpceWY3KHWw==",
+  "dgSpecHash": "yVw/5JXcASwhB8SqH08TdaCfvDmsLLyFkxFbMiRSYCvrfbpMcMteo/dTrZQp0ITQqZLAa9DT+l8LU2PYXM71wg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emad\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Emad\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Emad\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Emad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.7\\microsoft.aspnetcore.cryptography.internal.6.0.7.nupkg.sha512",
     "C:\\Users\\Emad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.7\\microsoft.aspnetcore.cryptography.keyderivation.6.0.7.nupkg.sha512",
     "C:\\Users\\Emad\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.7\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.7.nupkg.sha512",

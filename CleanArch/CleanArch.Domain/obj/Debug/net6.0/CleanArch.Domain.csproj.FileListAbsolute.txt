@@ -22,3 +22,6 @@ C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\refint\CleanArch.Domain.dll
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.pdb
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\ref\CleanArch.Domain.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.Core.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.Core.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.csproj.CopyComplete

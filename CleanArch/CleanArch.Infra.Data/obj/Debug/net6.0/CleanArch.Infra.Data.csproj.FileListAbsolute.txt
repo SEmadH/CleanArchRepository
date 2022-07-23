@@ -32,3 +32,5 @@ C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Infra.
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.pdb
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.genruntimeconfig.cache
 C:\Users\Emad\source\repos\SEmadH\CleanArchRepository\CleanArch\CleanArch.Infra.Data\obj\Debug\net6.0\ref\CleanArch.Infra.Data.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Domain.Core.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Domain.Core.pdb

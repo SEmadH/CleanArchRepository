@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "aeYmqqDCs41I938GA8Wn2fV/npIfZMEGv4+Xhn8SSMfqs1+3bw1L+G06REPJqoZrkf1aB2fwEm/PkLdg40VYlA==",
+  "dgSpecHash": "OPfXy+mSHCGX9bS7gk1O0VlPD7ekgvRRjQ1JwBwi/CPs+h9DciMfOe7iYbr+EnikXGJRQzE1O0ox5ZffmREVmA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Emad\\source\\repos\\CleanArchRepository\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Emad\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Emad\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Emad\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Emad\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Emad\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

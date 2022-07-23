@@ -36,3 +36,7 @@ C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Domain.pdb
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.csproj.CopyComplete
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Domain.Core.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Domain.Core.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArc.Infra.Bus.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArc.Infra.Bus.pdb

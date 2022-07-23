@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v6.0": {
       "CleanArch.Mvc/1.0.0": {
         "dependencies": {
-          "CleanArch.Infra.Data": "1.0.0",
           "CleanArch.Infra.IoC": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.7",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.7",
@@ -25,6 +24,25 @@
           "lib/netstandard2.0/Humanizer.dll": {
             "assemblyVersion": "2.8.0.0",
             "fileVersion": "2.8.26.1919"
+          }
+        }
+      },
+      "MediatR/10.0.1": {
+        "dependencies": {
+          "MediatR.Contracts": "1.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1.0"
+          }
+        }
+      },
+      "MediatR.Contracts/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       },
@@ -533,6 +551,15 @@
           }
         }
       },
+      "CleanArc.Infra.Bus/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0",
+          "MediatR": "10.0.1"
+        },
+        "runtime": {
+          "CleanArc.Infra.Bus.dll": {}
+        }
+      },
       "CleanArch.Application/1.0.0": {
         "dependencies": {
           "CleanArch.Domain": "1.0.0"
@@ -542,8 +569,19 @@
         }
       },
       "CleanArch.Domain/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "CleanArch.Domain.dll": {}
+        }
+      },
+      "CleanArch.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "10.0.1"
+        },
+        "runtime": {
+          "CleanArch.Domain.Core.dll": {}
         }
       },
       "CleanArch.Infra.Data/1.0.0": {
@@ -558,6 +596,7 @@
       },
       "CleanArch.Infra.IoC/1.0.0": {
         "dependencies": {
+          "CleanArc.Infra.Bus": "1.0.0",
           "CleanArch.Application": "1.0.0",
           "CleanArch.Infra.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "6.0.0"
@@ -580,6 +619,20 @@
       "sha512": "sha512-OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
+    },
+    "MediatR/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vnjbk4giDJzJelh34Ygt0eorApCKrRFB7j0pauFPY1oxfO3cEZ7FugBrIOjCM76SDGTOmPFfbfmVnz1t3iFrGA==",
+      "path": "mediatr/10.0.1",
+      "hashPath": "mediatr.10.0.1.nupkg.sha512"
+    },
+    "MediatR.Contracts/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
+      "path": "mediatr.contracts/1.0.1",
+      "hashPath": "mediatr.contracts.1.0.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/6.0.7": {
       "type": "package",
@@ -938,12 +991,22 @@
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
+    "CleanArc.Infra.Bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CleanArch.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "CleanArch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

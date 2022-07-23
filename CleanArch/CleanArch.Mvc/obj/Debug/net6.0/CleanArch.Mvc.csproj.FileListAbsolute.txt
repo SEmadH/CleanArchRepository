@@ -154,3 +154,9 @@ C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Infra.IoC.dll
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Infra.IoC.pdb
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Application.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\MediatR.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Domain.Core.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Domain.Core.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArc.Infra.Bus.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArc.Infra.Bus.pdb
