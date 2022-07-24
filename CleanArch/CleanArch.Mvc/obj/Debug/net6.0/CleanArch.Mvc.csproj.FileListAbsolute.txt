@@ -160,3 +160,4 @@ C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Domain.Core.pdb
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArc.Infra.Bus.dll
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArc.Infra.Bus.pdb
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
