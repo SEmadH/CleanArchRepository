@@ -94,3 +94,4 @@ C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Api\bin\Debug
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Api\bin\Debug\net6.0\CleanArch.Mvc.pdb
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Api\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Api\obj\Debug\net6.0\CleanArch.Api.MvcApplicationPartsAssemblyInfo.cs
