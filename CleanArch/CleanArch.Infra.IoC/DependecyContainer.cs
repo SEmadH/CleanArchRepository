@@ -22,7 +22,7 @@ namespace CleanArch.Infra.IoC
         public static void RegisterSevices(IServiceCollection services)
         {
             //Domain InMemoryBus MediatR
-            services.AddScoped<IMediatorHandler, InMemmoryBus>();
+            services.AddScoped<IMediatorHandler, InMemoryBus>();
 
             //Domain Handlers
             services.AddScoped<IRequestHandler<CreateCourseCommand, bool>, CourseCommandHandler>();
@@ -32,7 +32,8 @@ namespace CleanArch.Infra.IoC
 
             //Infra.Data Layer
             services.AddScoped<ICourseRepository, CourseRepository>();
-            services.AddScoped<UnivesityDBContext>();
+            services.AddScoped<UniversityDBContext>();
+
         }
     }
 }

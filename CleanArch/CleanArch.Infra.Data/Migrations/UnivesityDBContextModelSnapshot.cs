@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CleanArch.Infra.Data.Migrations
 {
-    [DbContext(typeof(UnivesityDBContext))]
+    [DbContext(typeof(UniversityDBContext))]
     partial class UnivesityDBContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

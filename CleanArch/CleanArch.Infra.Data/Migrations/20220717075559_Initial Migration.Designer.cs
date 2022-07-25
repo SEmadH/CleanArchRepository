@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CleanArch.Infra.Data.Migrations
 {
-    [DbContext(typeof(UnivesityDBContext))]
+    [DbContext(typeof(UniversityDBContext))]
     [Migration("20220717075559_Initial Migration")]
     partial class InitialMigration
     {

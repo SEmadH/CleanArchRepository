@@ -1,6 +1,7 @@
 ﻿using CleanArch.Domain.Interfaces;
 using CleanArch.Domain.Models;
 using CleanArch.Infra.Data.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +12,9 @@ namespace CleanArch.Infra.Data.Repositories
 {
     public class CourseRepository : ICourseRepository
     {
-        private readonly UnivesityDBContext _ctx;
+        private UniversityDBContext _ctx;
 
-        public CourseRepository(UnivesityDBContext ctx)
+        public CourseRepository(UniversityDBContext ctx)
         {
             ctx = _ctx;
         }

@@ -22,6 +22,5 @@ namespace CleanArch.Api.Controllers
 
             return Ok(courseViewModel);
         }
-
     }
 }

@@ -13,7 +13,7 @@ namespace CleanArch.Application.Services
 {
     public class CourseService : ICourseService
     {
-        private readonly ICourseRepository _courceRepository;
+        private ICourseRepository _courceRepository;
         private readonly IMediatorHandler _bus;
 
         public CourseService(ICourseRepository courceRepository, IMediatorHandler bus)

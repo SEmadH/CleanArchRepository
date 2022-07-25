@@ -18,7 +18,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddRazorPages();
 
-builder.Services.AddDbContext<UnivesityDBContext>(opetions =>
+builder.Services.AddDbContext<UniversityDBContext>(opetions =>
 {
     opetions.UseSqlServer(builder.Configuration.GetConnectionString("UnivesityDBConnection"));
 });

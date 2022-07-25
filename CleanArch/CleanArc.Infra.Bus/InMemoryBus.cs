@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace CleanArc.Infra.Bus
 {
-    public sealed class InMemmoryBus : IMediatorHandler
+    public sealed class InMemoryBus : IMediatorHandler
     {
         private readonly IMediator _mediator;
 
-        public InMemmoryBus(IMediator mediator)
+        public InMemoryBus(IMediator mediator)
         {
             _mediator = mediator;
         }
