@@ -9,7 +9,7 @@ namespace CleanArch.Application.Intefaces
 {
     public interface ICourseService
     {
-        CourseViewModel GetCourses();
+        IEnumerable<CourseViewModel> GetCourses();
         void Create(CourseViewModel CourseViewModel);
     }
 }

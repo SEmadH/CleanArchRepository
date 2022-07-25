@@ -53,7 +53,6 @@ C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug
 C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug\net6.0\CleanArch.Mvc.AssemblyInfoInputs.cache
 C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug\net6.0\CleanArch.Mvc.AssemblyInfo.cs
 C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug\net6.0\CleanArch.Mvc.csproj.CoreCompileInputs.cache
-C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug\net6.0\CleanArch.Mvc.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug\net6.0\CleanArch.Mvc.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug\net6.0\CleanArch.Mvc.RazorAssemblyInfo.cache
 C:\Users\Emad\Source\Repos\CleanArchRepository\CleanArch\CleanArch.Mvc\obj\Debug\net6.0\CleanArch.Mvc.RazorAssemblyInfo.cs
@@ -161,3 +160,5 @@ C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArc.Infra.Bus.dll
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\CleanArc.Infra.Bus.pdb
 C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Emad\source\repos\CleanArchRepository\CleanArch\CleanArch.Mvc\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

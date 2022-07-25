@@ -25,7 +25,7 @@ namespace CleanArch.Infra.Data.Repositories
             _ctx.SaveChanges();
         }
 
-        public IEnumerable<Course> GetCourses()
+        public IQueryable<Course> GetCourses()
         {
             return _ctx.Courses;
         }
